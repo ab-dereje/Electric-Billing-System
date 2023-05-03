@@ -1,0 +1,4 @@
+customer1,customer,1234,10845,Addis Ababa,0937388,50 kw,500 birr 
+customer2,customer,1234,10846,Adama,0937388,40 kw,600 birr 
+customer3,customer,1234,10847,Addis Ababa,0937388,30 kw,400 birr 
+customer4,customer,1234,10848,Addis Ababa,0937388,50 kw,500 birr 

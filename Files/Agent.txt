@@ -1,0 +1,13 @@
+agent,Agent,1234,Adama,mebrat,agent@gmail.com,0911111 
+agent,Agent,12345,Adama,mebrat,agent@gmail.com,0911111
+agent,Agent,12346,Adama,mebrat,agent@gmail.com,0911111
+agent,Agent,12347,Adama,mebrat,agent@gmail.com,0911111
+Abdi,Dereje,123458,Adis ababa,lebu,abudereje@gmail.com,+251 9
+Biruk,Aklilu,45687,a.a,kirkos,bur@gmail.com,+251 9217394
+alazar,meshesha,1234,xcnv,adama,sjhbcxnc,+251 9
+abdi,dereje,,,,shjcd,+251 9
+Abdi,Desalegn,fuck u,saint George,LA,abdi@gmail.com,+251 99467490
+Ambera,oumer,1212,addis ababa,jemo,ajdip,+251 912105151
+hale,abera,5678,a.a,keta,hale@gmail.com,+251 9679889
+moti,Takele,5680,arbaminch,kulfo,moti@gmail.com,+251 905281745
+ephrem,getachew,,jck,,ephywano,+251 9
